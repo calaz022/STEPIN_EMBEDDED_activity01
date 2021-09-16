@@ -50,5 +50,14 @@ Our project usually preffered in European contries, where temperature is too low
 | HR 02     | User shall be able to alter the temperature range    | Implemented |
 | HR 03     | Provided LCD display that shows the temperature of the heater   | Implemented |
 
+### Low level Requirement
+|ID  |Description		                                                            |Status      |
+|----|--------------------------------------------------------------------------|------------|
+|LR01|	Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1	| IMPLEMENTED|
+|LR02|	System will tell user that temperature is switching		                  | IMPLEMENTED|
+|LR03|  user have to turn on or off the vehicle AC		                          | IMPLEMENTED|
+|LR04|	System will display the temperature value inside the vehicle		        | IMPLEMENTED|
+|LR05|	System will stopped working once vehicle is Stopped		Not               | IMPLEMENTED|
+
 
 
