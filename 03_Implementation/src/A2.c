@@ -1,3 +1,11 @@
+/**
+*@file A1.c
+* @author Suhas kn
+* @brief Header file for activity1
+* @version 0.1
+* @date 2021-04-27
+*/
+
 #include "A2.h"
 
 void InitADC()
