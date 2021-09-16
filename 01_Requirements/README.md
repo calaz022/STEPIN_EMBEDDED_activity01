@@ -46,5 +46,9 @@ Our project usually preffered in European contries, where temperature is too low
 ## High Level Requirements
 | ID        | Description          | Status |
 | --------- |:-------------:| -----:|
+| HR 01     | User can be able to turn ON/OFF the heating mechanism   | Implemented |
+| HR 02     | User shall be able to alter the temperature range    | Implemented |
+| HR 03     | Provided LCD display that shows the temperature of the heater   | Implemented |
+
 
 
